@@ -1,0 +1,22 @@
+Order_ID,Customer_Name,Email,Region,Product,Order_Date,Quantity,Unit_Price,Status
+1001,  Alice Johnson,alice@example.com,North,Laptop,12/01/2026,2,1250.00,Completed
+1002,Bob Smith ,bob@example.com,south,Keyboard,2026-01-13,1,75,completed
+1003,CHARLIE BROWN,charlie@example.com, EAST ,Mouse,14-01-2026,3,25.50,Pending
+1004,Diana Prince,,West,Monitor,2026/01/15,1,300,Completed
+1005,Evan Thomas,evan@example.com,NORTH,Laptop,16/01/2026,1,1250,Shipped
+1006,Fatima Ali,fatima@example.com, south ,Headset,17-01-2026,2,45.00,completed 
+1007,George King,george@example.com,East,Mouse,18/01/2026,,25.5,Pending
+1008,Hannah Lee,hannah@example.com,West,Monitor,2026-01-19,1,300.00,Shipped
+1009,Ibrahim Khan,ibrahim@example.com,North,Keyboard,20/01/2026,2,75,Completed
+1010,Julia Adams,julia@example.com,South,Laptop,21-01-2026,1,,Completed
+1011,Kevin Roy,kevin@example.com,East,Headset,2026-01-22,4,45,Pending
+1012,Lina Paul,lina@example.com,West,Mouse,23/01/2026,2,25.50,completed
+1013,Mark Stone,mark@example.com,North,Monitor,24-01-2026,1,300,Shipped
+1014,Nora Joseph,nora@example.com,South,Keyboard,2026/01/25,2,75.00,Completed
+1015,Oliver James,oliver@example.com,East,Laptop,26/01/2026,1,1250,Completed
+1016,Priya Das,priya@example.com,West,Headset,27-01-2026,2,45,Pending
+1017,Quinn Baker,quinn@example.com,North,Mouse,2026-01-28,3,25.5,Shipped
+1018,Rachel Green,rachel@example.com,South,Monitor,29/01/2026,1,300,Completed
+1019,Sam Wilson,sam@example.com,East,Keyboard,30-01-2026,2,75,Pending
+1019,Sam Wilson,sam@example.com,East,Keyboard,30-01-2026,2,75,Pending
+1020,  Tina Scott  ,tina@example.com, west,Laptop,31/01/2026,1,1250,completed
