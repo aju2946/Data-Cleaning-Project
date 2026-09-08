@@ -1,0 +1,12 @@
+Issue Type,Column(s),Action Taken,Scope
+Whitespace,"Customer_Name, Region, Product, Status","Trimmed leading/trailing whitespace","Affected text records"
+Text consistency,"Customer_Name, Region, Product, Status","Standardized capitalization","Affected text records"
+Email consistency,Email,Converted emails to lowercase,Non-null emails
+Missing value,Email,Filled missing email with not_provided@example.com,1 record
+Missing value,Quantity,Filled missing quantity with median value,1 record
+Missing value,Unit_Price,Filled missing unit price with median value,1 record
+Duplicate,Entire row,Removed exact duplicate record,1 duplicate row
+Data type,Order_ID,Converted to nullable integer,All records
+Data type,Order_Date,Parsed mixed date formats into datetime,All records
+Data type,"Quantity / Unit_Price",Converted numeric strings to numeric types,All records
+Derived field,Total_Sales,Calculated Quantity × Unit_Price,All records
