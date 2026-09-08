@@ -1,0 +1,20 @@
+🚀 Day 1 of my Data Analytics journey — Data Cleaning & Preprocessing
+
+Today I completed a hands-on data cleaning project using Python, Pandas, and Excel.
+
+🔍 What I worked on:
+• Identified missing values
+• Detected and removed duplicate records
+• Standardized text casing and whitespace
+• Converted mixed date formats into a consistent datetime format
+• Corrected numeric data types
+• Handled missing values based on column context
+• Created a Total_Sales validation field
+• Re-checked the dataset after cleaning
+
+🛠 Tools:
+Python | Pandas | Excel | Jupyter Notebook
+
+The main lesson from this task: clean data is the foundation of reliable analysis. Before creating dashboards or insights, it is important to understand the quality of the underlying dataset and document every transformation.
+
+#DataAnalytics #Python #Pandas #Excel #DataCleaning #DataScience #LearningJourney #Day1
